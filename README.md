@@ -1,6 +1,6 @@
 # Coursera 深度学习专项课程（deeplearning.ai）
 
-> 警告：为准守课程[荣誉准测](https://www.coursera.org/learn/neural-networks-deep-learning/supplement/muGtL/deep-learning-honor-code)，请误复制任何代码到您的课程作业中。
+> 警告：为准守课程[荣誉准测](https://www.coursera.org/learn/neural-networks-deep-learning/supplement/muGtL/deep-learning-honor-code)，请勿复制任何代码到您的课程作业中。
 
 ## 编程任务
 
